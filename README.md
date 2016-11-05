@@ -6,3 +6,5 @@ If you clone the project in the root the path of test.pdf will be correctly hand
 
 If you press the button a random annotation will be added to the document, but you will not be able to see it unless **zoom in and out** the page.
 I would like to able to see the annotations as soon as I press the button.
+
+![Alt text](https://s21.postimg.org/8884vkhw7/scrren.png "Screenshot of the minimal working example showing some random annotations")

@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "7dc6a6689d2c8e48b5244ffb1dea76ab"
+build_time: [531668694, 223147000]
+inputs:
+  "/PDFKitBug/PDFKitBug/ViewController.swift": [531668694, 0]
+  "/PDFKitBug/PDFKitBug/AppDelegate.swift": [531666351, 0]
